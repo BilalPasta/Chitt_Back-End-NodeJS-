@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "bunyan": "^1.8.12",
-    "convict": "^5.1.0",
+    "convict": "^6.2.2",
     "email-validator": "^2.0.4",
     "express": "^4.17.1",
     "fs": "0.0.1-security",
